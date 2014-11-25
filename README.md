@@ -14,7 +14,7 @@ the original repository
 [github.com/cpjobling/eg-252-git-exercise-2014](http://github.com/cpjobling/eg-252-git-exercise-2014)
 and sending me a [pull request](https://help.github.com/articles/using-pull-requests/).
 
-This work submitted for assessment by name (number)
+This work submitted for assessment by Yiu Lun Leung(710188)
 
 ## Assessment Criteria
 
